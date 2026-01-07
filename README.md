@@ -19,6 +19,8 @@ Este repositório contém meus estudos de SQLite, com exemplos práticos e exerc
 ### Agrupamento
 - **GROUP BY** - Agrupamento de dados
 
+### Relacionamento entre Tabelas
+- **JOIN** - Junção de tabelas (INNER JOIN, LEFT JOIN)
 
 ## Dados
 
