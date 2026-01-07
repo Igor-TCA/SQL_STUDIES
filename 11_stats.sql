@@ -1,3 +1,3 @@
 SELECT AVG(QtdePontos) as MediaGasto
 FROM transacoes
-WHERE QtdePontos > 0
+WHERE QtdePontos > 0;
