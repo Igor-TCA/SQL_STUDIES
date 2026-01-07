@@ -19,20 +19,12 @@ Este repositório contém meus estudos de SQLite, com exemplos práticos e exerc
 ### Agrupamento
 - **GROUP BY** - Agrupamento de dados
 
-## Estrutura do Repositório
-
-```
-📁 Arquivos CSV/          # Dados de exemplo
-📁 EXERCÍCIOS/            # Exercícios práticos
-   ├── WHERE             # Exercícios de filtros
-   └── GROUP BY          # Exercícios de agrupamento
-📄 *.sql                  # Scripts de estudo
-```
 
 ## Dados
 
-O repositório inclui datasets CSV para prática:
-- clientes.csv
-- produtos.csv
-- transacoes.csv
-- transacao_produto.csv
+O repositório possui um database.db fornecido pelo [TeoMeWhy](https://github.com/teomewhy) em seu curso no [YouTube](https://www.youtube.com/watch?v=VmkJG8awKqM&list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j&index=1), upado em eu repositório no [Kaggle](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system).
+
+
+
+
+```Meus agradecimentos ao professor!```
